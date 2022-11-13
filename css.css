@@ -1,0 +1,405 @@
+
+
+
+
+nav , header , section ,main{
+    margin-left: 150px;
+    margin-right:150px;
+    font-family:  sans-serif;
+
+}
+  
+    
+
+.img-1{
+    width: 268px;
+    height: 33px;
+    padding-top: 20px;
+    padding-left: 20px;
+    position: relative; 
+    bottom: 15px;
+}
+nav{
+    
+    position: relative;
+    width:100%;
+    display: flex;
+    justify-content:space-between;
+    align-items:center ;
+}
+
+.div1{
+    display: flex;
+    gap:3rem;
+}
+.h-1{
+    color: #00b39b;
+    font-size: 15px;
+    cursor: pointer;
+
+    
+    
+}
+
+
+.h-2{
+    
+    color: #ababab;
+    font-size: 15px;
+    cursor: pointer;
+    
+
+}
+.h-3{
+    color: #ababab;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+.h-3:hover{
+    background-color: #00ccb1;
+    
+    
+}
+   
+
+header{
+    
+    width: 100% ;
+}
+.img-2{
+    width: 5%;
+    padding: 10px 30px;
+
+}
+.h-4{
+    color: #00b39b;
+    font-size: 2.125rem;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    margin:1em ;
+    
+}
+.div-2{
+    width: 100%;
+ display: flex; 
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+
+}
+.div-3{ 
+  
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+p{
+   
+    padding: 30px 20px; 
+    font-size: 12px;
+    color: #747474;
+    margin: 0.8em 0;
+    line-height: 1.75;
+    font-weight: 400;
+}
+section{
+    width: 100%;
+    height: 400px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 2rem;
+}
+
+  
+
+.div-4{
+    background-color: #00ccb1;
+ color: #fff;
+ width: 33,33%;
+height: 345px;
+ border-radius: 10px;
+ padding: 2em 2em 0;
+
+
+}
+
+.div-5{
+
+    background-color: #3d83df;
+    color: #FFFF;
+    border-radius: 10px;
+    width: 33,33%;
+    height: 345px;;
+    padding: 2em 2em 0;
+
+}
+.div-6{
+    background-color: #1b2734;
+    color: #FFFF;
+    border-radius: 10px;
+    width: 33,33%;
+    height: 345px;
+    padding: 2em 2em 0;
+}
+section h1
+{
+    font-size: 26px;
+}
+section h2{
+    font-size: 24px;
+    line-height: 1.3;
+
+}
+ #sl1 {
+   
+    position: relative;
+    top: 40px;
+    background-color: transparent;
+    color: #fff;
+    border: transparent;
+ }
+ #sl2 {
+    position: relative;
+  top: 50px;
+    
+
+ }
+ #sl3 {
+    position: relative;
+    top: 40px;
+    
+
+ }
+ #sl4{
+    position: relative;
+    top: 40px;
+    
+}
+main { width: 100%;
+    height: 200px;
+    position: relative;
+    right: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:flex-start;
+    
+
+
+}
+.h-5{
+    position:  relative;
+    
+    font-size: 1.625em;
+    width: 33%;
+    height: 280px; ;
+    color: #00b39b;
+    
+    padding-left: 50px;
+    padding-top: 50px;
+    
+}
+.img6{
+    width: 15px;
+}
+
+ul{
+    position: relative;
+left: 150px;
+top: 30px;
+right: 50px;
+    
+    font-size: 16px;
+    color:#ababab;
+    width : 75%;
+
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+.div-7{
+
+    background-image: url("./314826900_1212355859625960_5690450421511427966_n.png");
+  margin: 0 !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+}  
+.h-6{
+    font-size: 34px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #00b39b;
+}
+.divpar{
+    position: relative;
+    bottom: 230px;
+   margin-top: 50px;
+   padding-left: 700px;
+   padding-bottom: 00px;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-end;
+    
+    gap: 2rem;
+}
+.divch1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    width: 200px;
+    height: 250px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.divch2{ 
+    width: 200px;
+    height: 250px; 
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;  
+}
+.divch3{
+   
+    width: 200px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+.divch4{
+    
+    width: 200px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center
+}
+.h-7{
+    font: size 1.8em; 
+    color: #00b39b;  
+}
+.h-8{
+    font: size 1.8em; 
+    color: #00b39b;
+}
+.h-9{
+    font: size 1.8em; 
+    color: #00b39b;
+}
+.h-10{
+    font: size 1.8em; 
+    color: #00b39b;
+}
+.h-11{
+    padding-top: 20px;
+    color: #00b39b;
+    font-size: 30px;   
+}
+.div-8{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.div-9{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:2rem ;
+}
+.fig1{
+    width: 30%;
+}
+.fig2{
+    width: 30%;
+}
+.fig3{
+    width: 30%;
+}
+.fig4{
+    width: 30%;
+}
+.fig5{
+    width: 30%;
+}
+.fig6{
+    width: 30%;
+}
+.fig7{
+    width: 30%;
+    margin-top: 30px;
+    position: relative;
+    right: 180px; 
+}
+.fig8{
+    width: 30%;
+    margin-top: 30px;
+    position: relative;
+    right: 180px; 
+}
+button{
+    position: relative;
+    left: 30%;
+    width: 150px;
+   height: 40px;
+
+    background-color:#3d83df;
+    color: #fff;
+    border-radius: 4px;
+    font-weight: 700;
+}
+.end{
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.h-12{color: #333333;
+
+    
+    font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+
+} 
+.sub{
+    position: relative;
+   width: 250px;
+   height: 40px;
+    background-color:#3d83df;
+    color: #fff;
+    border-radius: 4px;
+    font-weight: 700;
+}
+footer{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    font-size:12px ;
+    font-family: r;
+    
+}
